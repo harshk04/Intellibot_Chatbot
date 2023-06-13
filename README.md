@@ -37,7 +37,7 @@ Start interacting with Intellibot in the terminal. Enter your queries, and the c
 ## Training Data
 Intellibot's training data is a collection of query-response pairs from various fields. The data includes examples related to technology, finance, healthcare, and other domains. This diverse training data helps the chatbot understand and respond effectively to user queries.
 
-You can customize the training data by modifying the `english/` file included in the repository. You can add more query-response pairs or modify existing ones to tailor the chatbot's knowledge and improve its performance.
+You can customize the training data by modifying the `english/file` included in the repository. You can add more query-response pairs or modify existing ones to tailor the chatbot's knowledge and improve its performance.
 
 ## Customization
 Intellibot offers several customization options to enhance its performance and adapt it to specific requirements. Here are a few ways to customize the chatbot:
